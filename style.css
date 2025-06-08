@@ -34,6 +34,22 @@ section {
     align-items: center;
 }
 
+.about {
+    padding: 30px;
+    line-height: 25px;
+    border: black 1px solid;
+    border-radius: 18px;
+}
+
+.img_float {
+    float: left;
+    margin-left: 15px;
+    padding: 10px;
+}
+
 footer {
-    
+      position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
 }
