@@ -1,0 +1,39 @@
+body {
+    margin: 0 50px;
+}
+
+.navbar {
+    display: flex;
+    justify-content: flex-end;
+    padding: 15px;
+}
+
+.main {
+    margin: 0 25px;
+}
+
+.card {
+    margin: auto;
+    padding: 15px;
+    background-color: aqua;
+    border: red 2px solid;
+    border-radius: 12px;
+}
+
+section {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+}
+
+.hero {
+    margin: auto;
+    display: flex;
+    height: 300px;
+    justify-content: center;
+    align-items: center;
+}
+
+footer {
+    
+}
