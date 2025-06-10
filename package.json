@@ -1,0 +1,13 @@
+{
+  "name": "branching-git-practice",
+  "version": "1.0.0",
+  "description": "This repo is just to practice git branching so I don't have to use it on current code until I understand it",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "David Liebherr",
+  "license": "ISC"
+}
